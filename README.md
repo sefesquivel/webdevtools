@@ -1,9 +1,8 @@
-# webdevtools
+webdevtools
 
-# below is a listing of webdevelopment tools i found very helpful
+below is a listing of webdevelopment tools i found very helpful
 
-# for nodejs server-side programming
+for nodejs server-side programming
 
 
-# code train repository
 
